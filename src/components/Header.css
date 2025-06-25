@@ -1,0 +1,7 @@
+.header-center {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;     /* centers vertically (if needed) */
+  height: 60px;            /* match menu height */
+  width: 100%;
+}
